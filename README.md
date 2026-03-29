@@ -1,5 +1,20 @@
 # 💫 Hi there! Welcome to my Maibokdaimhai GitHub
-
+```
+             .      .   .      .
+         .  (   )   (   )   (   )  .
+        (   )   (   )   (   )   (   )
+        '._.'   '._.'   '._.'   '._.'
+   ___      ___   _______   _____  ___     _______   
+  |"  \    /"  | /"     "| (\"   \|"  \   /" _   "|                    _ .--.
+   \   \  //   |(: ______) |.\\   \    | (: ( \___)                 (           )
+   /\\  \/.    | \/    |   |: \.   \\  |  \/ \                    .     ,     ,   ' .
+  |: \.        | // ___)_  |.  \    \. |  //  \ ___               (        3       )
+  |.  \    /:  |(:      "| |    \    \ | (:    _(  _| '             ._.      ' ._.
+  |___|\__/|___| \_______)  \___|\____\)  \_______)                  | | | |  ||
+        (   )   (   )   (   )   (   )                                | | | |  ||
+        '._.'   '._.'   '._.'   '._.'                                | | | |  ||
+                                                                    ' ' ' '  ''
+```
 I am a **Computer Engineering student at KMUTT** who thrives at the intersection of scalable systems, data-driven architecture, and creative design. I am deeply passionate about how technology and data will shape the future, and I am actively seeking internship opportunities to apply my skills in real-world environments.
 
 ### ☁️ Data & Cloud Infrastructure
@@ -49,6 +64,7 @@ Outside the terminal, I am an avid gamer and a digital arts enthusiast. This cre
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maibokdaimhai&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maibokdaimhai&color=00599C&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
