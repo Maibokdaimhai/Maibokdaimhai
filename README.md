@@ -15,17 +15,13 @@
         '._.'   '._.'   '._.'   '._.'                                | | | |  ||
                                                                     ' ' ' '  ''
 ```
-I am a **Computer Engineering student at KMUTT** who thrives at the intersection of scalable systems, data-driven architecture, and creative design. I am deeply passionate about how technology and data will shape the future, and I am actively seeking internship opportunities to apply my skills in real-world environments.
+## 🚀 About Me
+I am a **Computer Engineering student at KMUTT**, passionate about building scalable, data-driven systems with a creative touch. I bridge the gap between robust backend architecture and intuitive UI/UX design.
 
-### ☁️ Data & Cloud Infrastructure
-I firmly believe that data is the backbone of the future. I have a solid foundation in **Python** and **SQL (PostgreSQL/MySQL)**, with hands-on experience in building Machine Learning models on Google Colab. My background includes working with **Scikit-learn, XGBoost, and CatBoost** for Classification, Regression, and Clustering, alongside performing data preprocessing, feature engineering, and hyperparameter tuning using Cross-Validation. Currently, I am expanding my architectural mindset by studying **Cloud technologies (GCP), Docker**, and exploring the core concepts of **ETL/ELT** pipelines.
-
-### 💻 Full-Stack Development
-Beyond data, I enjoy exploring Full-Stack development. Having built project backends and designed databases, I am now focused on leveling up my JavaScript and TypeScript skills. I aim to understand the complete lifecycle of web applications, bridging the gap between complex backend logic and seamless frontend execution.
-
-### 🎨 The Creative Edge: UI/UX & Gaming
-Outside the terminal, I am an avid gamer and a digital arts enthusiast. This creative side strongly influences my interest in **UI/UX design**. I appreciate beautifully crafted interfaces and actively use **Figma** to bring my own design ideas to life. I believe that the best engineering solutions are not only technically robust but also visually intuitive and user-friendly.
-
+### 🌟 Interests
+* **Data & Cloud Infrastructure:** Passionate about **Python (ML)**, **SQL**, and modernizing workflows using **GCP, Docker**, and **ETL/ELT** pipelines.
+* **Full-Stack Development:** Exploring the complete lifecycle of web applications with a focus on **TypeScript** and seamless backend integration.
+* **UI/UX & Creative Design:** Merging engineering with aesthetics through **Figma**, driven by a gamer’s perspective on intuitive user experiences.
 ---
 
 ## 🌐 Connect with Me:
@@ -42,13 +38,13 @@ Outside the terminal, I am an avid gamer and a digital arts enthusiast. This cre
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🌐 Frontend & Backend Web
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Core Languages & Others
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-0540F2?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Design & Creative Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
