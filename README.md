@@ -16,12 +16,11 @@
                                                                     ' ' ' '  ''
 ```
 ## 🚀 About Me
-I am a **Computer Engineering student at KMUTT**, passionate about building scalable, data-driven systems with a creative touch. I bridge the gap between robust backend architecture and intuitive UI/UX design.
+I am a **Computer Engineering student at KMUTT**, passionate about building scalable, data-driven systems with a creative touch.
 
 ### 🌟 Interests
 * **Data & Cloud Infrastructure:** Passionate about **Python (ML)**, **SQL**, and modernizing workflows using **GCP, Docker**, and **ETL/ELT** pipelines.
 * **Full-Stack Development:** Exploring the complete lifecycle of web applications with a focus on **TypeScript** and seamless backend integration.
-* **UI/UX & Creative Design:** Merging engineering with aesthetics through **Figma**, driven by a gamer’s perspective on intuitive user experiences.
 ---
 
 ## 🌐 Connect with Me:
